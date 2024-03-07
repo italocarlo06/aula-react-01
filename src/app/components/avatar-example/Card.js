@@ -1,5 +1,6 @@
 import { Avatar } from './AvatarWithProps';
 import './card.css'
+
 export function Card({children}) {
     return (
       <div className="card">
