@@ -1,5 +1,5 @@
 
-import { StateSharedExample } from "./components/state/ExampleSharedState";
+import { StateSharedExample } from "./components/state-example/ExampleSharedState";
 
 export default function Home() {
   return (
